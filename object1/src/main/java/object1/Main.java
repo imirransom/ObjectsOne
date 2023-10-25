@@ -8,7 +8,7 @@ public class Main {
         Logger logger=Logger.getLogger(Main.class.getName());
         logger.info("This is a module-using Hello World!");    }
 
-    //Person person = new Person(height);
+    Person person = new Person();
 }
 
 
